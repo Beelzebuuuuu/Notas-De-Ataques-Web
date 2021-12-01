@@ -1,6 +1,6 @@
 # Web Attack Cheat Sheet
 
-![Beelzebuuuuu running](https://www.google.com/search?q=ataque+piratas+en+la+web&tbm=isch&ved=2ahUKEwi5m_HJ18P0AhXQl5UCHWSaB18Q2-cCegQIABAC&oq=ataque+piratas+en+la+web&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoHCCMQ7wMQJzoECB4QClCUEVjEIWCCKWgAcAB4AIABVogBrwWSAQE5mAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=wfunYfm2GtCv1sQP5LSe-AU&bih=685&biw=393&client=ms-android-xiaomi-rvo3&prmd=vinx#imgrc=q9ZDJaQjUbAcYM&imgdii=tpOX76tLwftKzM)
+![Beelzebuuuuu running](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2015/12/139043-webs-contenidos-pirata-ganan-millones-ano-instalar-malware.jpg?itok=gTcgoOpH)
 
 ## Table of Contents
 - [Discovering](#Discovering)
